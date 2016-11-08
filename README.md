@@ -1,2 +1,2 @@
 # ecommerce
-A demo template for e-commerce site
+A demo design pattern/template for e-commerce shopping site
